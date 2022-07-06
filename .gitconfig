@@ -1,0 +1,10 @@
+[user]
+	email = brmd.laura@gmail.com
+	name = Laura Brémaud
+[color]
+	status = auto
+	branch = auto
+[core]
+	editor = vim
+[merge]
+	tool = vimdiff
